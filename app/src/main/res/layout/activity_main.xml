@@ -35,7 +35,7 @@
             android:checked="true"
             android:padding="8dp"
             android:layout_margin="4dp"
-            android:textColor="@color/black"
+            android:textColor="@color/white"
             android:background="@drawable/frame_51"
             android:text="RadioButton2">
         </RadioButton>
