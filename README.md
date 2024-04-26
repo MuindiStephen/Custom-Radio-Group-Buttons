@@ -5,6 +5,7 @@ To use this library:
 Step 1. Add the JitPack repository to your build file
 
 Add it in your root build.gradle at the end of repositories:
+```gradle
 
 	dependencyResolutionManagement {
 		repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
@@ -13,12 +14,13 @@ Add it in your root build.gradle at the end of repositories:
 			maven { url 'https://jitpack.io' }
 		}
 	}
+```
 Step 2. Add the dependency
-
+```gradle
 	dependencies {
 	        implementation 'com.github.MuindiStephen:Custom-Radio-Group-Buttons:0.0.2'
 	}
-
+```
 
  License
  ```
